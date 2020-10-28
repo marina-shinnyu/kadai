@@ -8,3 +8,4 @@ const cat = true
 console.log(dog || cat)
 console.log(dog && cat)
 console.log(!dog && !cat)
+console.log(!(dong || cat))
